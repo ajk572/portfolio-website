@@ -1,0 +1,15 @@
+{
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.showAbbreviationSuggestions": true,
+  "editor.snippetSuggestions": "top",
+  "editor.suggestOnTriggerCharacters": true,
+  "editor.quickSuggestions": {
+    "other": true,
+    "comments": false,
+    "strings": true
+  },
+  "emmet.includeLanguages": {
+    "php": "html",
+    "javascript": "javascriptreact"
+  }
+}
